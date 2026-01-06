@@ -1,4 +1,4 @@
-EDA Projects in Python
+
 #Overview
 
 This repository contains Exploratory Data Analysis (EDA) projects using Python. The projects focus on analyzing datasets, uncovering patterns, visualizing trends, and generating insights to support data-driven decisions.
